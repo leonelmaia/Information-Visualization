@@ -1,0 +1,29 @@
+How are the CO2 emissions distributed accross users?
+        
+How are travel distance distributed?
+        
+How are trip duration distributed?
+
+How are those values distributed for a specific house (title, etc.)?
+
+How many users travel to a specific region (continent, country, etc.)?
+
+Which house travel most (is absolute value or relative to the size of the house)?
+
+Does the rank/title/institution impact emissions?
+        
+How the CO2 emissions are distributed with respect to the duration of the mission? Are long missons more expensive (In terms of CO2 emissions) than the short ones?
+
+How the mode of transport is distributed accross the houses?
+
+How the CO2 emissions are distributed accross places and countries (Relative to the number of trips)?(Taking in account the mode of transport)
+
+How the CO2 emissions are distributed accross titles and ranks?
+
+Which country and place received the most missions?
+
+How are distributed the average of CO2 emissions accross users?
+
+How the CO2 emissions are distributed accross regions? (Absolute and average)?
+
+Which region emits more CO2?
